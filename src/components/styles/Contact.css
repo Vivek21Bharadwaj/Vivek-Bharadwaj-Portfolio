@@ -28,16 +28,21 @@
 .contact-box {
   display: flex;
   flex-direction: column;
+  margin-left: 2rem;
 }
 
 .contact-flex p {
   margin-top: 10px;
   margin-bottom: 20px;
 }
-
 a.contact-social {
   font-size: 25px;
   border-bottom: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+  gap: 15px;
 }
 
 .contact-box h2 {
