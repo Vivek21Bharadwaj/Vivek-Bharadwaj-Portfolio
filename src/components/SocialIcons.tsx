@@ -61,7 +61,7 @@ const SocialIcons = () => {
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
           <a
-            href="https://github.com/Vivek21Bharadwaj"
+            href="https://github.com/Vivek-Bharadwaj-Dev"
             target="_blank"
             rel="noreferrer"
           >
@@ -70,7 +70,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="https://www.linkedin.com/in/vivek-bharadwaj-601031346?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+            href="https://www.linkedin.com/in/vivek-bharadwaj-dev/"
             target="_blank"
             rel="noreferrer"
           >
