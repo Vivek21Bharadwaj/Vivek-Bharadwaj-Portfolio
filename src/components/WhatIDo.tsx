@@ -136,7 +136,6 @@ const WhatIDo = () => {
                 <div className="what-tags">MongoDB &amp; PostgreSQL</div>
                 <div className="what-tags">Tailwind CSS</div>
                 <div className="what-tags">REST APIs</div>
-                <div className="what-tags">AWS &amp; Vercel</div>
               </div>
               <div className="what-arrow"></div>
             </div>
